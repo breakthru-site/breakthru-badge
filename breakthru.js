@@ -1,1 +1,1 @@
-document.write('<style> .badge {position: absolute;bottom: 0;right: 2vw;position: fixed;margin-bottom: 1vh;}</style> <div class="badge"> <a target="_blank" href="https://breakthru.site"><img height="35vh" src="badge.svg"></a> </div>');
+document.write('<style> .badge{position:absolute;bottom:0;right:2vw;position:fixed;margin-bottom:1vh;}</style> <div class="badge"><a target="_blank" href="https://breakthru.site"><img height="35vh" src="badge.svg"></a></div>');
