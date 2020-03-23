@@ -1,2 +1,1 @@
-# breakthru-badge
-Made by breakthru. badge
+## Made by breakthru.
